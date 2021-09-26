@@ -1,15 +1,14 @@
 .navbar {
-    background-color: #26BE9F;
-    /* position: fixed; */
-    transition: 1s;
+  background-color: #26be9f;
+
+  transition: 1s;
 }
 
 .navbar-text {
-    color: white;
-    font-family: 'Inter';
-    font-size: 16px;
-    font-weight: bold;
-
+  color: white;
+  font-family: "Inter";
+  font-size: 16px;
+  font-weight: bold;
 }
 
 .nav-btn {
@@ -27,5 +26,14 @@
 }
 
 .navbar-text:hover {
-    color: white;
+  color: white;
+}
+
+.hero-img {
+  position: relative;
+  height: 100vh;
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-image: url("../../assets/img/bg.jpg");
 }
