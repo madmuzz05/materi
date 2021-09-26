@@ -13,12 +13,17 @@
 }
 
 .nav-btn {
-    background-color: #26BE9F;
+    background-color: #10C98F;
     color: white;
     font-family: 'Inter';
-    font-size: 16px;
+    font-size: 14px;
+    font-weight: 500;
+    align-items: center;
     border: none;
     border-radius: 0px;
+    height: auto;
+    width: 170px;
+    min-height: 50px;
 }
 
 .navbar-text:hover {
