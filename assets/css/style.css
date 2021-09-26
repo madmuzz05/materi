@@ -1,0 +1,26 @@
+.navbar {
+    background-color: #26BE9F;
+    /* position: fixed; */
+    transition: 1s;
+}
+
+.navbar-text {
+    color: white;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-weight: bold;
+
+}
+
+.nav-btn {
+    background-color: #26BE9F;
+    color: white;
+    font-family: 'Inter';
+    font-size: 16px;
+    border: none;
+    border-radius: 0px;
+}
+
+.navbar-text:hover {
+    color: white;
+}
